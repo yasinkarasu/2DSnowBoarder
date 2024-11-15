@@ -1,0 +1,18 @@
+# Unity specific
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio specific
+.vs/
+*.csproj
+*.sln
+*.user
+
+# OS-specific files
+.DS_Store
+Thumbs.db
